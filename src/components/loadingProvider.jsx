@@ -1,6 +1,5 @@
-// LoadingContext.js
-import { createContext, useState, useContext } from 'react';
-import PropTypes from 'prop-types';
+import { createContext, useState, useContext } from "react";
+import PropTypes from "prop-types";
 
 const LoadingContext = createContext();
 
